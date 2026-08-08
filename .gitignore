@@ -63,3 +63,17 @@ midiTimingExample/config.make
 midiTimingExample/midiTimingExample.xcodeproj
 midiTimingExample/openFrameworks-Info.plist
 midiTimingExample/of.entitlements
+
+.vs/
+
+**/obj/
+
+dll/
+
+*.pdb
+
+*.lib
+
+*.exp
+
+addons.lnk
